@@ -93,6 +93,11 @@ Manages favorite coins:
    pnpm install
    \`\`\`
 
+#### Environment variables
+.env 
+
+NEXT_PUBLIC_FINNHUB_TOKEN=xxxxxxxxxxxxxxxxxxxxxxx
+
 ### Running the Development Server
 
 \`\`\`bash
